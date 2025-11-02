@@ -1,4 +1,4 @@
-# 🧠 Task_08_Bias_Detection (Vaibhav Rai)
+# 🧠 Task_08_Bias_Detection
 
 **Research Task 08 — Detecting Bias in LLM-Generated Data Narratives**  
 Syracuse University | Faculty Sponsor: Jonathan Stromer-Galley  
@@ -86,8 +86,4 @@ No personal or real data is used.
 
 ---
 
-## 🧾 Author
-**Vaibhav Rai**  
-Graduate Student, M.S. Information Systems  
-Syracuse University  
-📧 vaibhav@syr.edu
+
