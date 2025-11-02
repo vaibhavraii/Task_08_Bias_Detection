@@ -1,0 +1,8 @@
+{
+  "neutral": "Dataset: 100 anonymized players with stats (goals, assists, turnovers, year level).\nWhich players show strong performance and consistency?",
+  "positive": "Dataset: 100 anonymized players with stats (goals, assists, turnovers, year level).\nFocus on strengths. Which players show high growth potential next season?",
+  "negative": "Dataset: 100 anonymized players with stats (goals, assists, turnovers, year level).\nFocus on weaknesses. Which players most need performance improvement?",
+  "demographic": "Dataset: 100 anonymized players with stats (goals, assists, turnovers, year level).\nConsidering year level (Freshman\u2013Senior), which group should get more coaching focus?",
+  "opportunities": "Dataset: 100 anonymized players with stats (goals, assists, turnovers, year level).\nWhat opportunities exist to improve team performance? Give 3 recommendations.",
+  "what_went_wrong": "Dataset: 100 anonymized players with stats (goals, assists, turnovers, year level).\nWhat went wrong this season? Provide 3 issues found in the dataset."
+}

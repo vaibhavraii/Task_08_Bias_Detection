@@ -1,0 +1,1 @@
+print('Validation placeholder - compares model outputs with dataset ground truth.')
