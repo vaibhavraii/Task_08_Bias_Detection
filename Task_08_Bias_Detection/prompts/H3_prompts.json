@@ -1,0 +1,10 @@
+{
+  "hypothesis_id": "H3",
+  "name": "H3 Bias",
+  "conditions": [
+    {
+      "condition_id": "H3_c1",
+      "prompt": "Example prompt."
+    }
+  ]
+}
